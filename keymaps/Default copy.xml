@@ -2,6 +2,9 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -13,6 +16,10 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="RecentFiles" />
   <action id="ShowContent" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
 </keymap>

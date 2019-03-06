@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tmpl" type="DTD" />
       <mapping ext="wml" type="DTD" />
+      <mapping pattern="panelTools" type="TypeScript" />
     </extensionMap>
   </component>
 </application>

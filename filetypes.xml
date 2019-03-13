@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tmpl" type="DTD" />
-      <mapping ext="wml" type="DTD" />
       <mapping pattern="panelTools" type="TypeScript" />
+      <mapping ext="tmpl" type="XHTML" />
+      <mapping ext="wml" type="XHTML" />
+      <removed_mapping ext="wml" approved="true" type="DTD" />
+      <removed_mapping ext="tmpl" approved="true" type="DTD" />
     </extensionMap>
   </component>
 </application>

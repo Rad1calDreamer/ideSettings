@@ -14,9 +14,9 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.tmpl</mask>
-    <mask>*.less</mask>
     <mask>*.wml</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.less</mask>
   </component>
 </application>

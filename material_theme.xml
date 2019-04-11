@@ -1,14 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="arrowsStyle" value="Arrows" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="indicatorStyle" value="Dot" />
     <option name="tabsHeight" value="50" />
     <option name="accentColor" value="ffd700" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-457ce1a8:16740294b97:-7fff" />
-    <option name="version" value="3.8.0.2" />
+    <option name="version" value="3.9.0.3" />
+    <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>

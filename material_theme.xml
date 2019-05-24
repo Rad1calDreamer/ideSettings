@@ -10,11 +10,11 @@
     <option name="pristineConfig" value="false" />
     <option name="indicatorStyle" value="Dot" />
     <option name="tabsHeight" value="50" />
-    <option name="accentColor" value="ffd700" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-457ce1a8:16740294b97:-7fff" />
-    <option name="version" value="3.9.2" />
+    <option name="version" value="3.5.0.1" />
     <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>

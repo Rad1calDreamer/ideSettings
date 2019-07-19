@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="wml" type="XHTML" />
+      <mapping ext="tmpl" type="XHTML" />
     </extensionMap>
   </component>
 </application>

@@ -3,20 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.wml" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.css</mask>
-    <mask>*.json</mask>
-    <mask>*.tmpl</mask>
-    <mask>*.js</mask>
-    <mask>*.less</mask>
-    <mask>*.ts</mask>
-    <mask>*.wml</mask>
   </component>
 </application>

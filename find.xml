@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="ImageEditor2" />
     <option name="defaultScopeName" value="ImageEditor2" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="ImageEditor2" />
     <mask>*.properties</mask>
     <mask>*.html</mask>

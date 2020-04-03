@@ -37,9 +37,6 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl f" />
-  </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="ShowContent" />

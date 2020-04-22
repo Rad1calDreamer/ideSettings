@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ImageEditor2/_editor/Canvas/Canvas.less" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="tmpl" type="XHTML" />
       <mapping ext="wml" type="XHTML" />
+      <mapping ext="tmpl" type="XHTML" />
+      <mapping ext="s3srv" type="XHTML" />
       <mapping ext="s3mod" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />

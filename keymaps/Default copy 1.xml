@@ -41,6 +41,9 @@
   <action id="ResizeToolWindowUp" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>

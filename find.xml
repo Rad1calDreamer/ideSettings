@@ -17,5 +17,6 @@
     <mask>*.less</mask>
     <mask>*.wml</mask>
     <mask>*.ts</mask>
+    <mask>*.fed.xml</mask>
   </component>
 </application>

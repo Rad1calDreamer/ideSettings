@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="ng" type="HTML" />
+      <mapping ext="ng" type="HTML" />
       <mapping pattern="ImageEditor2/_editor/Canvas/Canvas.less" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -9,10 +9,10 @@
       <mapping ext="tmpl" type="XHTML" />
       <mapping ext="s3mod" type="XML" />
       <mapping ext="s3srv" type="XML" />
-      <removed_mapping pattern="tsconfig.e2e.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.lib.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <removed_mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />

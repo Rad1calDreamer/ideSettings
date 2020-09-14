@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ng" type="HTML" />
       <mapping pattern="ImageEditor2/_editor/Canvas/Canvas.less" type="PLAIN_TEXT" />
+      <mapping ext="lockfile" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="wml" type="XHTML" />

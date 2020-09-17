@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="wml" type="Vue.js" />
+      <mapping ext="wml" type="HTML" />
+      <removed_mapping ext="wml" approved="true" type="Vue.js" />
     </extensionMap>
   </component>
 </application>

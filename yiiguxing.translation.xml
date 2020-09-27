@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="указка" />
       <item value="modified" />
       <item value="modifided" />
       <item value="subscribed" />
@@ -10,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="ENGLISH" value="3" />
+        <entry key="RUSSIAN" value="3" />
       </map>
     </option>
   </component>

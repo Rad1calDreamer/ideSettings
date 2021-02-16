@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="regestered" />
       <item value="предотврадить" />
       <item value="указка" />
       <item value="modified" />
@@ -12,9 +13,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="RUSSIAN" value="3" />
+        <entry key="ENGLISH" value="4" />
+        <entry key="RUSSIAN" value="4" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1613482393800" />
   </component>
 </application>

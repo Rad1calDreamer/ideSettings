@@ -3,7 +3,7 @@
     <property name="created">2021-03-17T10:12:31</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-03-17T10:13:26</property>
+    <property name="modified">2021-03-17T10:16:26</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
   <colors>
@@ -2080,7 +2080,11 @@
       </value>
     </option>
     <option name="HTML_CODE">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="d8dee9" />
+        <option name="BACKGROUND" value="2e3440" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
     </option>
     <option name="HTML_COMMENT">
       <value>
@@ -2827,11 +2831,6 @@
         <option name="FOREGROUND" value="88c0d0" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="d8dee9" />
@@ -2850,7 +2849,9 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="5e81ac" />
+      </value>
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
@@ -3483,8 +3484,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="434c5e" />
+        <option name="EFFECT_COLOR" value="88c0d0" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">

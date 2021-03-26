@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="242" />
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="miscarriage" />
+      <item value="fault" />
+      <item value="blame" />
+      <item value="error" />
+      <item value="погрешность" />
+      <item value="gjuhtiyjcnm" />
+      <item value="gjuhtiyjcnm&#9;" />
+      <item value="lj" />
       <item value="regestered" />
       <item value="предотврадить" />
       <item value="указка" />
@@ -19,6 +32,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614551171573" />
+    <option name="lastTrimTime" value="1616764454321" />
   </component>
 </application>

@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="desired" />
       <item value="set" />
       <item value="miscarriage" />
       <item value="fault" />

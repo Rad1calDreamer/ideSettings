@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="&#10;                                style: 'success',&#10;                                icon: '',&#10;                                text: 'Скопировано в буфер обмена'&#10;                            " />
       <item value="notifier" />
       <item value="noti" />
       <item value="not" />

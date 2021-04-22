@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="242" />
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="notifier" />
+      <item value="noti" />
+      <item value="not" />
       <item value="desired" />
       <item value="set" />
       <item value="miscarriage" />
@@ -34,6 +37,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616764454321" />
+    <option name="lastTrimTime" value="1619101124270" />
   </component>
 </application>

@@ -4,7 +4,7 @@
     <property name="created">2019-02-04T10:06:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2021-05-11T11:26:18</property>
+    <property name="modified">2021-05-13T17:53:32</property>
     <property name="originalScheme">Halflife Contrast (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1323,10 +1323,10 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="fc913a" />
@@ -3065,7 +3065,7 @@
         <option name="FOREGROUND" value="f9d423" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="7d8991" />
